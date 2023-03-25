@@ -5,10 +5,10 @@ import (
 )
 
 func pi() {
-  fmt.Prinf("init\n")
+  fmt.Printf("init\n")
 }
 func pm() {
-  fmt.Prinf("main\n")
+  fmt.Printf("main\n")
 }
 
 func init() {
