@@ -1,0 +1,2 @@
+This is after the reset of branch `branchX` to before "master -> feature" 
+commit.
