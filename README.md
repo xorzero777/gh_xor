@@ -1,1 +1,1 @@
-# gh_xor
+# gh_xor Xorzero
